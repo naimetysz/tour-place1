@@ -1,4 +1,6 @@
 @import '../../scss/variables';
+@import '../../scss/mixin';
+
 .navbar{
     background-color: $cardNavBgColor;
     display: flex;
